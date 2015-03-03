@@ -44,8 +44,10 @@ $ ls -l typings
 
 ## How to install
 
+- install npm
 https://rtcamp.com/tutorials/nodejs/node-js-npm-install-ubuntu/
-
+- install grunt-cli
+ 
 ```
 $ npm install
 $ tsd reinstall
