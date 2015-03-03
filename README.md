@@ -42,6 +42,7 @@ $ ls -l typings
   -rw-r--r--@ 1 vvakame  staff   1185  9 14 03:44 googleapis-nodejs-common.d.ts
 ```
 
+## How to install
 
 https://ariejan.net/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/
 
