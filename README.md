@@ -44,8 +44,6 @@ $ ls -l typings
 
 ## How to install
 
-https://ariejan.net/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/
-
 https://rtcamp.com/tutorials/nodejs/node-js-npm-install-ubuntu/
 
 ```
