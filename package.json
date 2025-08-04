@@ -38,7 +38,7 @@
   "devDependencies": {
     "googleapis": "1.0.11",
     "source-map-support": "0.2.7",
-    "grunt": "0.4.5",
+    "grunt": "1.5.3",
     "grunt-contrib-clean": "0.6.0",
     "grunt-ts": "1.11.7",
     "typescript": "1.0.1",
